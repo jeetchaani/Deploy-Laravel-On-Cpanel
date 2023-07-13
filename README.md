@@ -1,4 +1,4 @@
-# Deploy-Laravel-On-Cpanel
+<h3>Deploy Laravel Project On Cpanel</h3>
 1) Add following code to **.htaccess** in root directory-->
    
              <IfModule mod_rewrite.c>
